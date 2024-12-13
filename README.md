@@ -5,9 +5,11 @@ In order to achieve the project goal as specified by smartshop, my team will car
 #### Tasks
 Launch an EC2 instance using AWS services, to host the web application for Smartshop products and services, set up VPC, configure security groups, implement security best practices, enable monitoring and logging, then, documentation.
 Note: This application should be accessible to the management via SSH and to the public through a web browser via HTTP. 
-#### Task 1
+
+#### Task In Operation 
 
 VPC in North Virginia Region
+
 ![17341094654841062697877999963684](https://github.com/user-attachments/assets/10b2913e-2453-4765-a2d8-3ed91afdec19)
 
  Subnets Made Available 
