@@ -19,3 +19,5 @@ VPC in North Virginia Region
 
 EC2 Instance Launched and Running 
 
+![17341100687324359147088639316286](https://github.com/user-attachments/assets/d8a5344f-288a-4e83-a0f9-471400e30ecf)
+
