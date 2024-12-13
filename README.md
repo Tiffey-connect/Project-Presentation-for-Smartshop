@@ -7,3 +7,4 @@ Launch an EC2 instance using AWS services, to host the web application for Smart
 Note: This application should be accessible to the management via SSH and to the public through a web browser via HTTP. 
 #### Task 1
 
+![17341090539258992142661033255760](https://github.com/user-attachments/assets/7e5d4398-ea98-4e27-8e93-2c18858e7dcd)
